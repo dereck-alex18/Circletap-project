@@ -1,0 +1,3 @@
+Circletap project is a patatap (https://patatap.com/) clone. The project is not so complete as patatap but it works similarly. When a keyboard letter is pressed a colorful circle appears its radius is continuously decreased until it disappears. Along with that process, a specific sound is played. Both the circle color and the sound will be different according to the pressed key.
+
+To build this project were used HTML, CSS, JavaScript, paper.js and howler.js, which are JavaScript libraries to deal with graphics and sound respectively.
